@@ -1,6 +1,6 @@
 # Conversor de Temperatura
 
-Este es un pequeño programa en Python (`temperatura.py`) que convierte temperaturas entre Celsius, Fahrenheit y Kelvin.
+Este es un pequeño programa desarrollado en Python (`temperatura.py`) 
 
 ## 🚀 Cómo clonar y ejecutar (Linux, Windows, macOS)
 
